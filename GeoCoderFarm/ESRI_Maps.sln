@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESRI_Maps", "ESRI_Maps\ESRI_Maps.csproj", "{137619E6-95DB-44A0-A9D1-642D3D7B78D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geocoder", "Geocoder\Geocoder.csproj", "{D3994673-5E2C-4169-A15D-E5727D7F7ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137619E6-95DB-44A0-A9D1-642D3D7B78D6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{137619E6-95DB-44A0-A9D1-642D3D7B78D6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{137619E6-95DB-44A0-A9D1-642D3D7B78D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137619E6-95DB-44A0-A9D1-642D3D7B78D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3994673-5E2C-4169-A15D-E5727D7F7ADF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D3994673-5E2C-4169-A15D-E5727D7F7ADF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D3994673-5E2C-4169-A15D-E5727D7F7ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3994673-5E2C-4169-A15D-E5727D7F7ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
